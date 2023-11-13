@@ -1,12 +1,13 @@
 <div align="center">
 <h1 align="center">Hola, soy YiverthDevs</a> 👋</h1>
+  <h5>Actualmente, estoy inmerso en una emocionante jornada de aprendizaje en el Servicio Nacional de Aprendizaje (SENA), donde estoy cursando la carrera tecnológica de Análisis y Desarrollo de Software 💻. Desde el inicio de mi programa en el SENA, he tenido la oportunidad de explorar🔍 diversos aspectos de la tecnología. Este viaje incluye comprender la lógica de los algoritmos y la aplicación práctica de proyectos significativos. Cada paso me acerca más a comprender la relevancia y la diversidad de la tecnología en nuestra sociedad⭐️.</h5>
 </div>
 <img src=https://i.postimg.cc/RCbRhsfr/1.png)](https://postimg.cc/9zZTNBJ1>
 
 [![Facebook](https://img.shields.io/badge/online-facebook?style=social&logo=facebook&label=facebook)](https://www.facebook.com/yiverth.martinez/?locale=es_LA)
 [![Instagram](https://img.shields.io/badge/online-Instagram?style=social&logo=Instagram&label=Instagram)](https://instagram.com/martinezyiverth?igshid=MzMyNGUyNmU2YQ==)
-[![GitHub followers](https://img.shields.io/badge/online-GitHub?style=social&logo=GitHub&label=GitHub)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![GitHub followers](https://img.shields.io/badge/online-GitHub?style=social&logo=GitHub&label=GitHub)](https://github.com/Yiverth)
+
 
 ## Sobre mi
 
