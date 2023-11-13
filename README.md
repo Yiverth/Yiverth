@@ -3,8 +3,9 @@
 </div>
 <img src=https://i.postimg.cc/RCbRhsfr/1.png)](https://postimg.cc/9zZTNBJ1>
 
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://instagram.com/martinezyiverth?igshid=MzMyNGUyNmU2YQ==)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+[![Facebook](https://img.shields.io/badge/online-facebook?style=social&logo=facebook&label=facebook)](https://www.facebook.com/yiverth.martinez/?locale=es_LA)
+[![Instagram](https://img.shields.io/badge/online-Instagram?style=social&logo=Instagram&label=Instagram)](https://instagram.com/martinezyiverth?igshid=MzMyNGUyNmU2YQ==)
+[![GitHub followers](https://img.shields.io/badge/online-GitHub?style=social&logo=GitHub&label=GitHub)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
