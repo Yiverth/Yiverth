@@ -11,12 +11,12 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+35k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 📚 Estudiante 📚
+- 💻 Analisis y desarrollo de software 💻
+- ✏️ Actualmente estoy trabajando en desarrollar un software para el "Agendamiento de citas Odontológicas" ✏️
+- 👨‍💻 Todos mis proyectos están disponibles en https://github.com/Yiverth
+- 📫 Cómo contactarme yivermartinez@gmail.com
+- ⭐️ Siempre dispuesto al aprendizaje y experiencias ⭐️
 <br>
 
 ## Proyectos *bombitas*
